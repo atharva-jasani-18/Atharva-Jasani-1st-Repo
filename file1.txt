@@ -1,1 +1,2 @@
 This is my file one for git course
+Changes are made
