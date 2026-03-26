@@ -4,7 +4,7 @@ Adding more content to file 2
 2. git status
 3. git config --list
 4. git init
-5. git add file1.xt file2.txt
+5. git add file1.txt file2.txt
 6. git add . (for adding all files in a folder)
 7. git commit -m "Comment"
 Some changes are made
